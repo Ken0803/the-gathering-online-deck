@@ -9,6 +9,9 @@ It includes Cards List and Deck Page. You can add cards to the deck and can chec
 - Deck List
 - Average Mana Cost of deck cards
 
+## Demo
+[The Gathering Deck](https://the-gathering-online-deck.vercel.app/)
+
 ## Project Setup
 
 To get started with the project, follow these steps:
